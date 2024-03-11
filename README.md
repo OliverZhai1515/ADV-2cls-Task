@@ -5,6 +5,7 @@
 2020 
 
 - Gandhi, Apurva, and Shomik Jain. **"Adversarial perturbations fool deepfake detectors."** 2020 International joint conference on neural networks (IJCNN). IEEE, 2020.
+[[**codes**]](https://github.com/ApGa/adversarial_deepfakes)
 
 - Carlini, Nicholas, and Hany Farid. **"Evading deepfake-image detectors with white-and black-box attacks."** Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops. 2020.
 
