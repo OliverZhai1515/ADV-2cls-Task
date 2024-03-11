@@ -16,9 +16,15 @@
 
 - Fan, Li, Wei Li, and Xiaohui Cui. **"Deepfake-image anti-forensics with adversarial examples attacks."** Future Internet 13.11 (2021): 288.
 
+- Hussain, Shehzeen, et al. **"Adversarial deepfakes: Evaluating vulnerability of deepfake detectors to adversarial examples."** Proceedings of the IEEE/CVF winter conference on applications of computer vision. 2021.
+
+- Li, Dongze, et al. **"Exploring adversarial fake images on face manifold."** Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.
+
 2022
 
 - Shahriyar, Shaikh Akib, and Matthew Wright. **"Evaluating robustness of sequence-based deepfake detector models by adversarial perturbation."** Proceedings of the 1st Workshop on Security Implications of Deepfakes and Cheapfakes. 2022.
+
+- Jia, Shuai, et al. **"Exploring frequency adversarial attacks for face forgery detection."** Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
 
 2023
 
