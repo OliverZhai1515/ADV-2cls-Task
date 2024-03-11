@@ -38,5 +38,7 @@
 
 - Meng, Xiangtao, et al. **"AVA: Inconspicuous Attribute Variation-based Adversarial Attack bypassing DeepFake Detection."** arXiv preprint arXiv:2312.08675 (2023).
 
+- Gowrisankar, Balachandar, and Vrizlynn LL Thing. **"An adversarial attack approach for eXplainable AI evaluation on deepfake detection models."** Computers & Security 139 (2024): 103684.
 
+- Chen, Zhaoyu, et al. **"Exploring Decision-based Black-box Attacks on Face Forgery Detection."** arXiv preprint arXiv:2310.12017 (2023).
 
